@@ -1,0 +1,14 @@
+{
+  "name": "Flying Squad",
+  "graphics": "opengl",
+  "bg_color": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "max_fps": 60,
+  "size": {
+    "x": 800,
+    "y": 600
+  }
+}
