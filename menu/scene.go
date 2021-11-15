@@ -1,10 +1,11 @@
 package menu
 
 import (
-	"flat_game"
-	"flat_game/entity"
-	"flat_game/utils"
 	"flying_square/level"
+
+	"github.com/paulotokimatu/flat_game"
+	"github.com/paulotokimatu/flat_game/entity"
+	"github.com/paulotokimatu/flat_game/utils"
 )
 
 func NewMenuScene(flyingSquare flat_game.IGame) (flat_game.IScene, error) {

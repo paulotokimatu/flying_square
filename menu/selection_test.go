@@ -1,11 +1,11 @@
 package menu_test
 
 import (
-	"flat_game"
-	"flat_game/entity"
-	"flat_game/game"
-	"flat_game/input"
 	"flying_square/menu"
+	"github.com/paulotokimatu/flat_game"
+	"github.com/paulotokimatu/flat_game/entity"
+	"github.com/paulotokimatu/flat_game/game"
+	"github.com/paulotokimatu/flat_game/input"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

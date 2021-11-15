@@ -1,9 +1,9 @@
 package level
 
 import (
-	"flat_game"
-	"flat_game/entity"
-	"flat_game/input"
+	"github.com/paulotokimatu/flat_game"
+	"github.com/paulotokimatu/flat_game/entity"
+	"github.com/paulotokimatu/flat_game/input"
 )
 
 type MovementEnt struct {

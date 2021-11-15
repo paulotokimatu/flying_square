@@ -1,11 +1,12 @@
 package level
 
 import (
-	"flat_game"
-	"flat_game/entity"
-	"flat_game/input"
-	"flat_game/utils"
 	"flying_square/obstacle"
+
+	"github.com/paulotokimatu/flat_game"
+	"github.com/paulotokimatu/flat_game/entity"
+	"github.com/paulotokimatu/flat_game/input"
+	"github.com/paulotokimatu/flat_game/utils"
 )
 
 func NewLevel(flyingSquare flat_game.IGame, levelName string) (flat_game.IScene, error) {

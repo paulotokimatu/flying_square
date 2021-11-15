@@ -1,12 +1,12 @@
 package level_test
 
 import (
-	"flat_game"
-	"flat_game/entity"
-	"flat_game/game"
-	"flat_game/input"
-	"flat_game/utils"
 	"flying_square/level"
+	"github.com/paulotokimatu/flat_game"
+	"github.com/paulotokimatu/flat_game/entity"
+	"github.com/paulotokimatu/flat_game/game"
+	"github.com/paulotokimatu/flat_game/input"
+	"github.com/paulotokimatu/flat_game/utils"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

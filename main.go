@@ -1,10 +1,11 @@
 package main
 
 import (
-	"flat_game"
-	"flat_game/game"
 	"flying_square/menu"
 	"runtime"
+
+	"github.com/paulotokimatu/flat_game"
+	"github.com/paulotokimatu/flat_game/game"
 )
 
 func main() {

@@ -1,10 +1,10 @@
 package obstacle
 
 import (
-	"flat_game"
-	"flat_game/entity"
-	"flat_game/utils"
 	"fmt"
+	"github.com/paulotokimatu/flat_game"
+	"github.com/paulotokimatu/flat_game/entity"
+	"github.com/paulotokimatu/flat_game/utils"
 	"math"
 	"math/rand"
 )
